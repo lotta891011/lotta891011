@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lotta891011
 - 👀 I love being productive
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://karolinadev.com.pl/
 
 <!---
 lotta891011/lotta891011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
